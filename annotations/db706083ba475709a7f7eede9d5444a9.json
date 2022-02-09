@@ -1,0 +1,286 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Section",
+      "@type" : "oa:Tag",
+      "chars" : "Section"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Income",
+      "@type" : "oa:Tag",
+      "chars" : "Income"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Heading of the first section listing the financial incomes of the bailliage of Lille :\n\"Premieres recepte de ventes, services de fiefs et des terres\" = \"Firstly, financial income coming from feudal duty and sells of lands\".\nAs a result, it reveals to us that the baillif is in charge of collecting taxes coming from the feudal right.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Heading of the first section listing the financial incomes of the bailliage of Lille :</p>\n<p>\"Premieres recepte de ventes, services de fiefs et des terres\" = \"Firstly, financial income coming from feudal duty and sells of lands\".</p>\n<p>As a result, it reveals to us that the baillif is in charge of collecting taxes coming from the feudal right.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-09T14:31:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644417094416",
+    "dcterms:modified" : "2022-02-09T14:31:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-1/manifests/B6234-1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=240,280,307,80"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M240.13636,279.50658h153.27273v0h153.27273v40.09091v40.09091h-153.27273h-153.27273v-40.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ce8dcfdc-306c-425f-8053-789459b5bd8f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://572b2d87-a226-4020-bc1b-6da2008d24aa"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "First item of the income section, indicating that a piece of land has been sold by Jehan Flamecq to Jehan de le Fortrye for the price of 44 lb. According to the feudal right called the \"10e denier\" (namely a tenth of the price), the baillif takes 4 lb. from this sale.\nWe can note some details concerning the fief that is sold : it is located in the parish of Fretin.\nAs a consequence, the items listed in this section are a way to trace the moving possessions of lands in a local context during the XVth century.\n<a title=\"Fretin nowadays\" href=\"https://www.google.fr/maps/place/59273+Fretin/@50.6149902,3.0712529,12.29z/data=!4m5!3m4!1s0x47c2d6d479796861:0x631c82785d2a8af2!8m2!3d50.5581531!4d3.1360825\" target=\"_blank\" rel=\"noopener\">https://www.google.fr/maps/place/59273+Fretin/@50.6149902,3.0712529,12.29z/data=!4m5!3m4!1s0x47c2d6d479796861:0x631c82785d2a8af2!8m2!3d50.5581531!4d3.1360825\nFretin on the Cassini's map :<a href=\"https://www.geoportail.gouv.fr/donnees/carte-de-cassini?c=1.0986386930841712\" target=\"_blank\" rel=\"noopener\">https://www.geoportail.gouv.fr/donnees/carte-de-cassini?c=1.0986386930841712",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>First item of the income section, indicating that a piece of land has been sold by Jehan Flamecq to Jehan de le Fortrye for the price of 44 lb. According to the feudal right called the \"10e denier\" (namely a tenth of the price), the baillif takes 4 lb. from this sale.</p>\n<p>We can note some details concerning the fief that is sold : it is located in the parish of Fretin.</p>\n<p>As a consequence, the items listed in this section are a way to trace the moving possessions of lands in a local context during the XVth century.</p>\n<p><a title=\"Fretin nowadays\" href=\"https://www.google.fr/maps/place/59273+Fretin/@50.6149902,3.0712529,12.29z/data=!4m5!3m4!1s0x47c2d6d479796861:0x631c82785d2a8af2!8m2!3d50.5581531!4d3.1360825\" target=\"_blank\" rel=\"noopener\">https://www.google.fr/maps/place/59273+Fretin/@50.6149902,3.0712529,12.29z/data=!4m5!3m4!1s0x47c2d6d479796861:0x631c82785d2a8af2!8m2!3d50.5581531!4d3.1360825</a></p>\n<p>Fretin on the Cassini's map :<a href=\"https://www.geoportail.gouv.fr/donnees/carte-de-cassini?c=1.0986386930841712\" target=\"_blank\" rel=\"noopener\">https://www.geoportail.gouv.fr/donnees/carte-de-cassini?c=1.0986386930841712</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "land",
+      "@type" : "oa:Tag",
+      "chars" : "land"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "purchases",
+      "@type" : "oa:Tag",
+      "chars" : "purchases"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "feudal right",
+      "@type" : "oa:Tag",
+      "chars" : "feudal right"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "taxes",
+      "@type" : "oa:Tag",
+      "chars" : "taxes"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T14:57:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644418666667",
+    "dcterms:modified" : "2022-02-09T15:21:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-1/manifests/B6234-1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=137,365,671,240"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M137.47065,365.02245h335.42549v0h335.42549v120.08647v120.08647h-335.42549h-335.42549v-120.08647z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.98431,0.92549,0],&quot;editable&quot;:true}\" id=\"rectangle_24a894d8-fa22-40c3-9d9e-f2543c11dc07\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#fbec00\" stroke-width=\"8.33123\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://572b2d87-a226-4020-bc1b-6da2008d24aa"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Marginalia",
+      "@type" : "oa:Tag",
+      "chars" : "Marginalia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Codicology",
+      "@type" : "oa:Tag",
+      "chars" : "Codicology"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Marginal note by the Chambre des Comptes explaining that this specific registers is physically bound to the previous and following ones :\n\"Le bailli a cy rendu copie de sa recepte. Collationn&eacute; ici les livres de ce comptes sont enchac&eacute;s audit collations de mill CCCC et XXX\".",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Marginal note by the Chambre des Comptes explaining that this specific registers is physically bound to the previous and following ones :</p>\n<p>\"Le bailli a cy rendu copie de sa recepte. Collationn&eacute; ici les livres de ce comptes sont enchac&eacute;s audit collations de mill CCCC et XXX\".</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-09T14:43:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644417832786",
+    "dcterms:modified" : "2022-02-09T14:43:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-1/manifests/B6234-1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=8,265,178,227"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8.31818,265.42142h89.18182v0h89.18182v113.72727v113.72727h-89.18182h-89.18182v-113.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b96795b7-1edb-4f83-a210-3f0dd6482d9b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#03ff48\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://572b2d87-a226-4020-bc1b-6da2008d24aa"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Introductory paragraph indicating the name of the officer, its functions and the period of time that this register is concerned with. In that case, these are the registers of Hubert Ghommer, baillif of Lille, dealing the period between the 23th of February 1428 to the 9th of May 1429, and the to the 19th of September 1429.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Introductory paragraph indicating the name of the officer, its functions and the period of time that this register is concerned with. In that case, these are the registers of Hubert Ghommer, baillif of Lille, dealing the period between the 23th of February 1428 to the 9th of May 1429, and the to the 19th of September 1429.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Introduction",
+      "@type" : "oa:Tag",
+      "chars" : "Introduction"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T14:19:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644416374305",
+    "dcterms:modified" : "2022-02-09T15:15:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-1/manifests/B6234-1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=76,80,689,184"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M76.04545,79.73531h344.63636v0h344.63636v91.90909v91.90909h-344.63636h-344.63636v-91.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d26dd99c-817e-4e37-ba6f-28434cf07544\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.1699\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://572b2d87-a226-4020-bc1b-6da2008d24aa"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Marginalia at the top of the page, explaining that this register is copy for the use of the Chambre des Comptes of Lille : \"Copie pour la court\" = \"Copy for the court\".\nIt is a first glance at the control of the court over the actions and expenses of the baillif",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Marginalia at the top of the page, explaining that this register is copy for the use of the Chambre des Comptes of Lille : \"Copie pour la court\" = \"Copy for the court\".</p>\n<p>It is a first glance at the control of the court over the actions and expenses of the baillif</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "marginalia",
+      "@type" : "oa:Tag",
+      "chars" : "marginalia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "control",
+      "@type" : "oa:Tag",
+      "chars" : "control"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "court",
+      "@type" : "oa:Tag",
+      "chars" : "court"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T14:10:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644415844856",
+    "dcterms:modified" : "2022-02-09T14:11:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-1/manifests/B6234-1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=308,7,174,71"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M308.31818,6.72727h87.18182v0h87.18182v35.36364v35.36364h-87.18182h-87.18182v-35.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_3ec2b023-902d-4be5-bb11-4bafaf661d84\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.51826\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://572b2d87-a226-4020-bc1b-6da2008d24aa"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Second item of the income section :\nIt indicates a similar taxe of 10 pourcents on a sale of a larger and more expensive piece of land (440 lb.). The baillif took 44 lb.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Second item of the income section :</p>\n<p>It indicates a similar taxe of 10 pourcents on a sale of a larger and more expensive piece of land (440 lb.). The baillif took 44 lb.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "land",
+      "@type" : "oa:Tag",
+      "chars" : "land"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "taxes",
+      "@type" : "oa:Tag",
+      "chars" : "taxes"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "purchase",
+      "@type" : "oa:Tag",
+      "chars" : "purchase"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "feudal right",
+      "@type" : "oa:Tag",
+      "chars" : "feudal right"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-09T15:01:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644418895755",
+    "dcterms:modified" : "2022-02-09T15:12:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-1/manifests/B6234-1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=125,652,688,292"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M124.93523,651.51434h343.79547v0h343.79547v146.12157v146.12157h-343.79547h-343.79547v-146.12157z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.98431,0.92549,0],&quot;editable&quot;:true}\" id=\"rectangle_d81e5e2a-ee8b-4e5b-92ae-8acf95edaee0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#fbec00\" stroke-width=\"8.33123\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://572b2d87-a226-4020-bc1b-6da2008d24aa"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-1/manifests/B6234-1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=451,465,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M450.93324,465.03496h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.98431,0.92549,0],&quot;editable&quot;:true}\" id=\"rectangle_9119d01d-47ee-4997-81ae-ca4f19499bb7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#fbec00\" stroke-width=\"8.33123\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://572b2d87-a226-4020-bc1b-6da2008d24aa"
+    } ]
+  } ],
+  "@id" : "https://ValentinDeCraene.github.io/B6234-1/annotations/db706083ba475709a7f7eede9d5444a9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
