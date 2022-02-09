@@ -42,8 +42,18 @@
         },
         "on" : "http://572b2d87-a226-4020-bc1b-6da2008d24aa"
       } ],
-      "related" : ""
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://valentindecraene.github.io/B6234-1/annotations/db706083ba475709a7f7eede9d5444a9.json",
+        "label" : "Annotations for canvas Empty canvas"
+      } ]
     } ]
   } ],
-  "structures" : [ ]
+  "structures" : [ ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92516776/0f4be127024905c3dfb80e47ef584821/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
 }
