@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://ValentinDeCraene.github.io/B6234-1/manifests/B6234-1.json",
   "@type" : "sc:Manifest",
-  "label" : "Registers of Hubert Ghommer (B6234-1)",
+  "label" : "",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Registers of Hubert Ghommer, baillif of Lille, for the period between the 23th of February 1428 to the 29 of September 1429]",
+    "@value" : "[Click to edit description]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Archives Départementales du Nord]",
+  "attribution" : "[Click to edit attribution]",
   "sequences" : [ {
     "@id" : "http://7af935ab-6693-4cc0-9f0b-e2d1235422ec",
     "@type" : "sc:Sequence",
@@ -42,18 +42,13 @@
         },
         "on" : "http://572b2d87-a226-4020-bc1b-6da2008d24aa"
       } ],
-      "related" : "",
       "otherContent" : [ {
-        "@type" : "sc:AnnotationList",
         "@id" : "https://valentindecraene.github.io/B6234-1/annotations/db706083ba475709a7f7eede9d5444a9.json",
-        "label" : "Annotations for canvas Empty canvas"
-      } ]
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
+      "related" : ""
     } ]
   } ],
-  "structures" : [ ],
-  "service" : {
-    "profile" : "http://iiif.io/api/search/0/search",
-    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92516776/0f4be127024905c3dfb80e47ef584821/search",
-    "@context" : "http://iiif.io/api/search/0/context.json"
-  }
+  "structures" : [ ]
 }
